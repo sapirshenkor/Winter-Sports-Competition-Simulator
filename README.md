@@ -2,12 +2,11 @@
 
 A Java OOP + multithreading Swing GUI app that simulates winter sports (ski/snowboard) competitions with live arena visualization, league rules, cloning, and decorators.
 
-### Screenshots/GIFs
+### Screenshots
 
-- GUI main panel: `docs/screenshot-main.png`
-- Arena view with competitors: `docs/screenshot-arena.png`
-- Results dialog: `docs/screenshot-results.png`
-- Animated race (GIF): `docs/demo.gif`
+- GUI main panel: `images/screenshot-main.png`
+- Arena view with competitors: `images/screenshot-arena.png`
+- Results dialog: `images/screenshot-results.png`
 
 ### Features
 
