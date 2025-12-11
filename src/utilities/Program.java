@@ -1,7 +1,4 @@
-/**
- * מגישים: ספיר שנקור-318871969_לירן חוזיאס-207329186
- *
- */
+
 package utilities;
 //import game.GameEngine;
 //import game.arena.WinterArena;
@@ -20,7 +17,6 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * @author Itzhak Eretz Kdosha
  * Main class(run demo)
  */
 public class Program {
